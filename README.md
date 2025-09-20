@@ -158,9 +158,13 @@ The following files are automatically ignored by Git:
 
 ---
 ## 8. Sample Outputs 
+![Capture 01](https://raw.githubusercontent.com/HAMYL-Aththnayaka/ThinkBoard/main/Captures/Capture%2001.PNG)
+![Capture 02](https://raw.githubusercontent.com/HAMYL-Aththnayaka/ThinkBoard/main/Captures/Capture%2002.PNG)
+![Capture 03](https://raw.githubusercontent.com/HAMYL-Aththnayaka/ThinkBoard/main/Captures/Capture%2003.PNG)
+![Capture 04](https://raw.githubusercontent.com/HAMYL-Aththnayaka/ThinkBoard/main/Captures/Capture%2004.PNG)
 
-If you encounter any issues:
-
+## 9. Support
+# If you encounter any issues:
 * Check that all dependencies are installed correctly
 * Verify `.env` variables are set properly
 * Ensure MongoDB and Redis accounts are active and credentials are correct
