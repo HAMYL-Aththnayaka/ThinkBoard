@@ -1,4 +1,4 @@
-# ThinkBoard - Client Setup Guide
+# ThinkBoard - Client Setup Guide ‼
 
 ThinkBoard is a full-stack note-taking application with a Node.js + Express backend and a React + Vite frontend.
 This guide will walk you through all the steps to **install dependencies, configure accounts, and run the project locally**.
